@@ -1,0 +1,18 @@
+{
+  "name": "ipgrabber",
+  "version": "1.0.0",
+  "description": "An IP Grabber made using express.js which also gives approximate location of the user.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Adiiityaaa",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "axios": "^1.3.4",
+    "express": "^4.18.2",
+    "node-fetch": "^3.2.6"
+  }
+}
