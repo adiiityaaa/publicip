@@ -1,7 +1,7 @@
 {
   "name": "ipgrabber",
   "version": "1.0.0",
-  "description": "An IP Grabber made using express.js which also gives approximate location of the user.",
+  "description": "An Express.js Application which gives information about the Public IP of the user.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
